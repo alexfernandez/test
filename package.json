@@ -1,0 +1,23 @@
+{
+  "name": "test",
+  "version": "0.0.1",
+  "description": "Empty test",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexfernandez/test.git"
+  },
+  "keywords": [
+    "test",
+    "package"
+  ],
+  "author": "alexfernandeznpm@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexfernandez/test/issues"
+  },
+  "homepage": "https://github.com/alexfernandez/test#readme"
+}
